@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "DatabaseName",
+    "ParameterValue": "firstredshift"
+  },
+  {
+    "ParameterKey": "ClusterType",
+    "ParameterValue": "single-node"
+  },
+  {
+    "ParameterKey": "NumberOfNodes",
+    "ParameterValue": "1"
+  },
+  {
+    "ParameterKey": "NodeType",
+    "ParameterValue": "dc2.large"
+  },
+  {
+    "ParameterKey": "MasterUsername",
+    "ParameterValue": "admin"
+  },
+  {
+    "ParameterKey": "MasterUserPassword",
+    "ParameterValue": "Password1!"
+  },
+  {
+    "ParameterKey": "InboundTraffic",
+    "ParameterValue": "0.0.0.0/0"
+  }
+]
