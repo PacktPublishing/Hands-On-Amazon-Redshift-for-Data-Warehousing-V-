@@ -1,5 +1,4 @@
-# Hands-On-Amazon-Redshift-for-Data-Warehousing-V-
-Code Repository for Hands-On Amazon Redshift for Data Warehousing[V], published by Packt
+
 # Hands-On Amazon Redshift for Data Warehousing [Video]
 This is the code repository for [Hands-On Amazon Redshift for Data Warehousing [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-amazon-redshift-data-warehousing-video?utm_source=github&utm_medium=repository&utm_campaign=9781838558888), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
